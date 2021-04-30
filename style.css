@@ -234,6 +234,14 @@ span {
     justify-content: flex-start;
     margin: 0;
   }
+  body {
+    gap: 0;
+    margin-top: 0;
+    flex-direction: row;
+  }
+  .attribution {
+    display: none;
+  }
 }
 @media only screen and (max-width: 321px) {
   .image {
@@ -261,5 +269,8 @@ span {
   }
   .card {
     margin-bottom: 25px;
+  }
+  .attribution {
+    display: none;
   }
 }
