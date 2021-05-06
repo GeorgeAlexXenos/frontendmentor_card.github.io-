@@ -21,5 +21,4 @@ Users should be able to:
 
 ## Author
 
-- Frontend Mentor - [@GeorgeAlexXenos
-  ](https://www.frontendmentor.io/profile/GeorgeAlexXenos
+- Frontend Mentor - [@GeorgeAlexXenos](https://www.frontendmentor.io/profile/GeorgeAlexXenos
